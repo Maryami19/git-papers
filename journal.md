@@ -1,4 +1,4 @@
-Written by Me
+Written by Me and A_j
 Modelling social effect in perceptual choices
 
 #Intro
