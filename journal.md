@@ -5,4 +5,7 @@ Modelling social effect in perceptual choices
 social influence has been investigated in perceptual and value-base decisions
 
 #refrence
+Rahnev (2020)
+Germar (2016)
+Toelch (2018)
 
