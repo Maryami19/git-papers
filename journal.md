@@ -1,2 +1,6 @@
 Written by Me
 Modelling social effect in perceptual choices
+
+#Intro
+social influence has been investigated in perceptual and value-base decisions
+
